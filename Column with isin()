@@ -1,0 +1,4 @@
+we = df.loc[df.text.isin(Companys)]
+we.head()
+
+https://stackoverflow.com/questions/45921083/how-to-update-create-column-in-pandas-based-on-values-in-a-list
